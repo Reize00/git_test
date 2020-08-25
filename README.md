@@ -1,0 +1,1 @@
+This is Wess's first git project!
